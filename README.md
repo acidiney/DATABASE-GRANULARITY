@@ -18,7 +18,9 @@ As proxies permiter que eu criei armadinha ou um caminho alternativo ao original
 ### Techs
  - Dexie ( Wrapper para o indexDB )
  - Proxies
- - JSONFAKEAPI
+ - SVELTE
+ - EXPRESS
+ - SQLITE
  - PWA
  
  ### Roadmap
