@@ -29,7 +29,7 @@ As proxies permiter que eu criei armadinha ou um caminho alternativo ao original
  - [X] Criar granularidade de banco de dados usando dexie
  - [X] Criar storie para os eventos de delete e create quando offline
  - [X] Criar rotina de sync sempre que a maquina mudar para o estado online
- - [Z] Habilitar PWA
+ - [X] Habilitar PWA
  
  
 
