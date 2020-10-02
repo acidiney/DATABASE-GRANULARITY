@@ -1,5 +1,7 @@
 # DATABASE-GRANULARITY
-## EM DESENVOLVIMENTO
+## Concluído
+
+Link para o artigo a descrever uma explicação sobre a PoC: https://acidineydias.me/blog/2020-09-27-um-pouco-sobre-offline-first-e-granularidade
 
 Prova de conceito usando granularidade de banco de dados, permitindo que a aplicação nunca fique sem os ultimos dados atualizados. 
 
